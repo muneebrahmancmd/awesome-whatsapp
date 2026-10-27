@@ -120,6 +120,7 @@ Open-source tools and libraries for WhatsApp development.
 - [Waxum](https://github.com/imtaqin/waxum) — MIT-licensed WhatsApp gateway in Rust, shipped as a single binary with a REST API and webhooks.
 - [Botpress](https://github.com/botpress/botpress) — Open-source conversational AI platform.
 - [Rasa](https://github.com/RasaHQ/rasa) — Open-source conversational AI framework.
+- - [Fullscreen DP AI](https://github.com/muneebrahmancmd/fullscreen-dp-ai) — Open-source tool that sets a WhatsApp profile picture in full 9:16 size without cropping, and views and downloads profile pictures in HD.
 
 ## Learning Resources
 
